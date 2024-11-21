@@ -8,7 +8,7 @@ This is a simple Business Card App built using Android Studio and Kotlin. The ap
 - Shows name and description
 - Provides contact information including phone number, social media handle, and email address
 
-## Screenshots
+## App Preview
 
 ![App Preview](card.png)
 
